@@ -1,2 +1,12 @@
 # trousers.js
-trousers.js - the last js frontend framework you'll ever need. 
+Trousers.js - the last js frontend framework you'll ever need. 
+
+
+## Q. What is trousers.js? 
+## A. It's another git-dang js framework.
+
+## Q. All i see is a blank repo. 
+## A. ....(crickets)
+
+
+
