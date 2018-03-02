@@ -1,5 +1,5 @@
 # trousers.js
-Trousers.js - the last js frontend framework you'll ever need. 
+Trousers.js - the last vanilla js frontend framework you'll ever need.
 
 
 Q. What is trousers.js? 
